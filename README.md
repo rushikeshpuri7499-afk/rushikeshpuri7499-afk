@@ -1,4 +1,4 @@
-# ☺️ About Me:
+# 😁 About Me:
 Daily programming practice in C, C++ and Java<br>Beginner friendly programming projects and college assignments<br>Data Structures and Algorithms and best coding practices<br>Java, C, C++ and Python , C# is next on my list<br>C, C++ and Java programming concepts & its internal working<br>I upload my code to GitHub every single day to build <br>my skills and portfolio for my future career!
 
 
@@ -21,4 +21,4 @@ Daily programming practice in C, C++ and Java<br>Beginner friendly programming p
 ---
 [![](https://komarev.com/ghpvc/?username=rushikeshpuri7499-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
